@@ -1,17 +1,35 @@
 # about_UL_CompSoc
 Who are we?
 
+The computer society is for people who are interested in computer hardware and software. Events we have done previously and/or will continue to do include:
 
+* Social/casual meetups (currently virtual pubs)
 
+* Informative talks featuring speakers from the industry
+
+* A show and tell with our members, with prizes awarded to those with the best projects (Nintendo Switch, Raspberri Pi)
+
+* Gaming (Minecraft, on our very own server, Skycraft!, Among Us) 
+
+Planned events include: 
+
+* More virtual pubs and talks 
+
+* Accessing your Skynet account and hosting your own website
+
+* Programming events (code-off?) 
+
+* Setup Wars. Show off your work from home/gaming setup! (Just Eat vouchers to be won) 
+
+* Compsoc VS the Games Society in CSGO or some other game. 
+
+At the heart of the society is the computing cluster affectionately known as Skynet. All members get access to all of Skynet's services. Many of the people who maintain this cluster have been drawn from the society. This experience can be found invaluable when looking for jobs in later life. We also appropriately named all the machines after artificial intelligences from movies and tv. For more information on Skynet check out this link.
 
 The Computer Society will be running this year in line with all COVID safety guidelines. Last semester we were able to continue running events well into lockdown safely. We had events such as a Virtual Pub where members got together on our dedicated Skynet video chat meet.skynet.ie and had a bit of much needed banter.
 
-We ran Minecraft events on our server "Skycraft" which all members are allowed access, one such project was building the foundation building, the exterior is complete and work on the interior is ongoing, you can see photos of it below.
+We have a Discord server, where you can get up to date with all the latest society news, have discussions with current members etc, link is on the left of this page.
 
-We ran our annual "Show and Tell" virtually this year, every year members can take part and show off a project they worked on (doesn't have to be from the university or even from that year) and then the members rank each participant, top 3 participants win prizes. If we are able to safely have in-person events we will do so and we will follow every guideline to keep everyone safe. If not we have plenty of events we can run virtually. Regardless we have plenty of services available with our computing cluster "Skynet", such as the aforementioned "Skycraft" minecraft server.
-
-We have a Discord channel where you can get up to date with all the latest society news, have discussions with current members etc, link is on the left of this page.
-
+--- Below this is probably too much, seems like repetition as it is compied from the soc description --- 
 
 The computer society is for people who are interested in computers and computer software such as:
 
